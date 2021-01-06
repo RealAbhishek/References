@@ -1,0 +1,44 @@
+# Prerequisites
+*.d
+*.sdf
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.suo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.opensdf
+*.pdb
+*.res
+*.bak
+*.war
+
+# Python Cache 
+
+__pycache__
+*.pyc
